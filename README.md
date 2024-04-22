@@ -3,7 +3,7 @@
     <br>
     <h1>Waifu Chan</h1>
     <p>An unofficial android app for <a href="https://waifu.pics/">waifu.pics</a>. Your everyday waifu companion.</p>
-    <p>| <a href="">Download Now</a> |</p>
+    <p>| <a href="https://github.com/CosmicPredator/WaifuChan/releases/latest">Download Now</a> |</p>
 </div>
 
 ## Features:
